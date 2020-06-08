@@ -31,7 +31,7 @@ This project was completed as a part of Career Launcher machine learning interns
 ### **3. Fundamental Analysis using Regression**
   a. Calculated Beta value using regression.
   
-### **4. Trade all orediction using classification**
+### **4. Trade call prediction using classification**
   a. Trade Calls made using Bolinger bands.\
   b. Utilized classification to make trade calls for the stock.\
   c. Used already defined classification model to make trade calls for a new stock.\
